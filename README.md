@@ -6,7 +6,7 @@
     <title>BookBloom: Blossoming Reads</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: Monotype Corsiva, sans-serif;
             margin: 0;
             padding: 0;
             background-color: #f8f8f8;
